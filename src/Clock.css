@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.Clock {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.DayOfWeek{
+    font-size: 40px;
+    margin: 10% 0% 10% 0%;
+}
+
+.DayOfWeek p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.Date {
+    font-size: 60px;
+    margin: 10% 0% 10% 0%;
+}
+
+.Date p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.Time {
+    font-size: 80px;
+    margin: 10% 0% 10% 0%;
+}
+
+.Time p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
